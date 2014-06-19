@@ -459,6 +459,7 @@
 				CEB51E901952BFCB007B2C86 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CEB51E911952BFCB007B2C86 /* Build configuration list for PBXNativeTarget "iphoneDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -467,6 +468,7 @@
 				CEB51E931952BFCB007B2C86 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
